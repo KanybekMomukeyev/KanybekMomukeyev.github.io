@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kg.cbk.mbusiness",
+      "sha256_cert_fingerprints": [
+        "06:70:49:4F:FD:36:2F:0B:21:83:01:3F:01:9C:B5:7A:A1:5B:A5:4B:46:FA:28:4F:35:CA:E5:1E:39:69:E5:2B"
+      ]
+    }
+  }
+]
