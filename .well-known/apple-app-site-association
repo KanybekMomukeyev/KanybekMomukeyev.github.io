@@ -1,10 +1,23 @@
-{ 
+{   
+    "webcredentials": {
+        "apps": [
+          "9Q62AEKC8N.kg.cbk.mbusiness"
+        ]
+    },
     "applinks": { 
         "apps": [],
         "details": [
-            { 
+            {
                 "appID": "9Q62AEKC8N.kg.cbk.mbusiness",
-                "paths": ["*"]
+                "paths": ["*"],
+                "components": [
+                    {
+                      "/": "*"
+                    }
+                  ],
+                  "appIDs": [
+                    "9Q62AEKC8N.kg.cbk.mbusiness"
+                  ]
             }
         ]
     }
